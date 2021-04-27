@@ -1,0 +1,25 @@
+### Headers settings
+company: Vadim_Presnov
+
+### Xcode project settings
+project_name: Test_Shark
+xcodeproj_path: Test_Shark.xcodeproj
+
+# The file path for new modules
+project_file_path: Test_Shark/
+
+# The Xcode group path to new modules
+project_group_path: Test_Shark/
+
+### Code generation settings section
+# The main project target name
+project_target: Test_Shark
+
+### Dependencies settings section
+podfile_path: 
+
+### Templates
+templates:
+- {name: rviper_controller}
+- {name: mvvm_controller}
+- {name: swifty_viper}
