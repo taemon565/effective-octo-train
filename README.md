@@ -1,6 +1,6 @@
 Задание:
 
-<img src="https://github.com/taemon565/test_shark/task.png" width="50%"></img>
+<img src="https://github.com/taemon565/test_shark/task.jpg" width="50%"></img>
 
 
 API: https://open.exchangerate-api.com/v6/latest
